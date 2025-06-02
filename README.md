@@ -23,9 +23,5 @@ localStorage for persistence
 
 HTML, CSS, JavaScript
 
-![image](https://github.com/user-attachments/assets/71779e5a-124d-4880-ace4-0dc85b6c4f59)
 
-![image](https://github.com/user-attachments/assets/5ea09fa4-91bf-4083-9547-2cdb5a05cc44)
-
-![image](https://github.com/user-attachments/assets/075ffe39-b9e6-410e-8647-2b81f4290f5c)
 
